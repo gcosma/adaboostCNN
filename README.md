@@ -6,7 +6,9 @@ Taherkhani, A, Cosma, G, McGinnity, M (2020) AdaBoost-CNN: an adaptive boosting 
 
 The paper is available from:
 https://authors.elsevier.com/a/1b6a73INukEAdx
-Or:
+
+and:
+
 https://doi.org/10.1016/j.neucom.2020.03.064
 
 # How to run
